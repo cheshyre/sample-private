@@ -1,4 +1,4 @@
-# sample-privateNew line 1
+# sample-private
 
-New line 2
+An exmaple of how to manage a public version from a private repository
 
